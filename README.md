@@ -18,3 +18,6 @@ We further release two models built upon this data:
 Tool-DE achieves new state-of-the-art results on both ToolRet and its own benchmark, setting a foundation for data-centric tool retrieval research.
 
 ## ✅ TODO List
+- [ ] Release training & evaluation code
+- [ ] Release datasets and models
+- [ ] Provide documentation & usage examples 
