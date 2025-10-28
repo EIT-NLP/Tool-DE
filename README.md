@@ -20,5 +20,19 @@ Tool-DE achieves new state-of-the-art results on both ToolRet and its own benchm
 
 ## ✅ TODO List
 - [ ] Release training & evaluation code
-- [ ] Release datasets and models
-- [ ] Provide documentation & usage examples 
+- [ ] Release benchmarks and models
+- [ ] Release training datasets
+- [ ] Provide documentation & usage examples
+
+## 📚 Citation
+```bibtex
+@misc{lu2025tool-de,
+      title={Tools are under-documented: Simple Document Expansion Boosts Tool Retrieval}, 
+      author={Xuan Lu and Haohang Huang and Rui Meng and Yaohui Jin and Wenjun Zeng and Xiaoyu Shen},
+      year={2025},
+      eprint={2510.22670},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR},
+      url={https://arxiv.org/abs/2510.22670}, 
+}
+```
