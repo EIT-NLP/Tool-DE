@@ -11,6 +11,12 @@
 ## 📖 Introduction
 Tool-DE is a new benchmark and framework that enhances tool retrieval by systematically enriching tool documentation using Large Language Models (LLMs).
 Existing benchmarks (e.g., ToolBench, ToolACE, ToolRet) reveal a key bottleneck — incomplete and inconsistent tool documentation hinders retrieval quality.
+
+<div align="center">
+  <img src="assets/heatmap.png" alt="Visual Layer Analysis" width="80%">
+  <p><em> Figure 1: Incomplete field coverage across the 35 tool-use datasets. </em></p>
+</div>
+
 To address this, Tool-DE introduces an LLM-driven document expansion pipeline that generates structured fields such as function_description, when_to_use, limitations, and tags.
 We further release two models built upon this data:
 - Tool-Embed – a dense retriever trained on 50k expanded documents
